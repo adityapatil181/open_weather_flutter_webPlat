@@ -1,16 +1,21 @@
-# open_weather_api_assignment
+# 🌦️ Open Weather API Assignment
 
-A new Flutter project.
+A Flutter weather app that fetches and displays real-time weather data using the OpenWeatherMap API. Users can search for any city and get live weather stats, including temperature, humidity, wind speed, and more.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 **Search by city name**
+- 📍 **Displays:**
+  - Temperature & Feels Like
+  - Weather description
+  - Wind speed
+  - Humidity
+  - Rain (1h) — if available
+  - Cloud coverage
+- 🕘 **Recent searches** with clickable chips
+- 🎨 Clean, modern UI using GetX for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
